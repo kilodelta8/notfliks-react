@@ -3,7 +3,7 @@
 I built this wite from a tutorial on my journey to learn React.  You can enter a move into the search bar, the application will send an API call to omdbAPI on the title you entered and return the pertinent information.
 
 <p align="center">
-  <img alt="Notfliks in action" src="[https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png](https://github.com/kilodelta8/notfliks-react/blob/main/images/notflix001.png?raw=true)">
+  <img alt="Notfliks in action" src="https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png(https://github.com/kilodelta8/notfliks-react/blob/main/images/notflix001.png?raw=true)">
 </p>
 
 
