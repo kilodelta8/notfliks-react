@@ -1,6 +1,6 @@
 # Notfliks Movie Website
 
-I built this wite from a tutorial on my journey to learn React.  You can enter a move into the search bar, the application will send an API call to omdbAPI on the title you entered and return the pertinent information.
+I built this site from a tutorial on my journey to learn React.  You can enter a move into the search bar, the application will send an API call to omdbAPI on the title you entered and return the pertinent information.
 
 <p align="center">
   <img alt="Notfliks in action" src="https://github.com/kilodelta8/notfliks-react/blob/main/images/notflix001.png">
